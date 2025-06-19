@@ -1,0 +1,2 @@
+# Flingo
+Flashcard application 
